@@ -46,7 +46,7 @@ Open the workflow in Alfred Preferences and click Configure Workflow.
 
 The CIS Controls v8.1 mapping to SP 800-53 Rev 5 is published by the Center for Internet Security under CC BY-NC-ND 4.0, which does not allow redistribution of derived data. It is therefore not part of this repository or of the release package. To use the `cis` lookups and the CIS column of the crosswalk:
 
-1. Download "CIS Controls v8.1 Mapping to NIST SP 800-53 Rev 5" (xlsx) from CIS yourself: https://www.cisecurity.org/controls. Use it within the CIS licence terms.
+1. Download "CIS Controls v8.1 Mapping to NIST SP 800-53 Rev 5" (xlsx) from CIS yourself: https://learn.cisecurity.org/controls-v8.1-mapping-nist-sp-800-53-rev5. CIS may ask you to register first. Use it within the CIS licence terms.
 2. Enter its path as CIS xlsx path in Configure Workflow.
 3. In the workflow folder, run `/usr/bin/python3 build_index.py`.
 
