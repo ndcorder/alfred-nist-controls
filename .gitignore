@@ -1,0 +1,9 @@
+# Per-install Configure Workflow values (personal paths, API keys)
+prefs.plist
+# CIS crosswalk built from your own CIS download (CC BY-NC-ND 4.0): never commit or share
+cis.json
+*.tmp
+__pycache__/
+*.pyc
+*.alfredworkflow
+.DS_Store
